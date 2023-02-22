@@ -16,10 +16,9 @@ int main(void)
 	while (i < 10)
 	{
 		putchar(i);
-/*the infinite loop is due to the lack of an increment of i this i forever remains 0 */
+/* loop is infinite because there is no i++ */
 	}
 
 	printf("Infinite loop avoided! \\o/\n");
-
 	return (0);
 }
