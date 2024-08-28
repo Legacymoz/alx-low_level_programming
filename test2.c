@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Hello! I am testing this for my Github");
+    printf("Hello! I am testing this for my Gi thub");
 }
